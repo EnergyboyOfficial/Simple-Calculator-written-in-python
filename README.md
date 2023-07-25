@@ -1,1 +1,1 @@
-# Simple-Calculator-written-in-python
+# Simple Calculator written in Python
